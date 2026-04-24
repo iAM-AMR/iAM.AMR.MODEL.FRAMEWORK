@@ -5,6 +5,8 @@
 
 # iAM.AMR Model Framework
 
-The iAM.AMR Model Framework contains the functions and indices required to create and run an iAM.AMR model in Analytica. 
+The iAM.AMR Model Framework contains the functions and indices required to create and run an iAM.AMR model in Analytica.
 
-For more details, see the [iAM.AMR project documentation](https://docs.iam.amr.pub/model/model-framework).
+To explore the framework without Analytica, an Excel workbook is also included.
+
+For more details, see the [iAM.AMR project documentation](https://docs.iam.amr.pub/).
